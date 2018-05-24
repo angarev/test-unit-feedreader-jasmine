@@ -2,12 +2,12 @@
 
 The project is part of my nanodegree course in Udacity.  Testing is an important part of the development process and many organizations practice a standard of development known as "test-driven development". The goal is to use [Jasmine](http://jasmine.github.io/) to test a ready-made [FeedReader](http://github.com/udacity/frontend-nanodegree-feedreader) app. These will test the underlying business logic of the application as well as the event handling and DOM manipulation. Good tests give you the ability to quickly analyze whether new code breaks an existing feature within your codebase, without having to manually test all of the functionality.
 
-##How to Run Appilcation
+## How to Run Appilcation
 
 Download repositrory from [my github profile](https://github.com/angarev). Then open the index.html file in a browser.
 
 
-##Which tests were implemented
+## Which tests were implemented
 
 * Test that loops through each feed in the `allFeeds` object and ensures it has a URL defined and that the URL is not empty.
 * Test that loops through each feed in the `allFeeds` object and ensures it has a name defined and that the name is not empty.
